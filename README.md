@@ -17,28 +17,28 @@ Transforming raw data into an analyzable format was the first step. Key preparat
 
 Several advanced Excel functions and tools were employed to process and analyze the data:<br>
 	•	Pivot Tables:<br>
-			> Used to summarize and analyze large datasets quickly.<br>
-			> Created yearly summaries for the percentage increase in public debt, intragovernmental holdings, and total debt.<br>
-			>Grouped data by months to calculate average monthly debts.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;Used to summarize and analyze large datasets quickly.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;Created yearly summaries for the percentage increase in public debt, intragovernmental holdings, and total debt.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;Grouped data by months to calculate average monthly debts.<br>
 	•	Advanced Filtering:<br>
-			>Applied custom filters to isolate key trends, such as year-end totals or specific monthly patterns.<br>
-			>Extracted records corresponding to significant spikes or anomalies for closer inspection.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;Applied custom filters to isolate key trends, such as year-end totals or specific monthly patterns.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;Extracted records corresponding to significant spikes or anomalies for closer inspection.<br>
 	•	Conditional Formatting:<br>
-			>Highlighted spikes in debt increase during specific months or years.<br>
-			>Color-coded year-over-year trends for easier visualization.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;Highlighted spikes in debt increase during specific months or years.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;Color-coded year-over-year trends for easier visualization.<br>
 	•	Dynamic Ranges: <br>
- 			Leveraged named ranges to automate chart updates when data changes.<br>
+ 			&nbsp;&nbsp;&nbsp;&nbsp;Leveraged named ranges to automate chart updates when data changes.<br>
 
 ## 📊 Key Analysis & Findings
 
 1. Yearly Debt Percentage Increase
 
 	•	Technique:<br>
-	>Used Pivot Tables to calculate yearly percentage changes.<br>
-	>Visualized the trends using a multi-series line chart.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;Used Pivot Tables to calculate yearly percentage changes.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;Visualized the trends using a multi-series line chart.<br>
 	•	Insight:<br>
-	>From 2012–2019, the average yearly increase in public debt was ~5%.<br>
-	>A sharp spike in 2020 (~25% increase) was observed, likely due to COVID-19 pandemic policies.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;From 2012–2019, the average yearly increase in public debt was ~5%.<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;A sharp spike in 2020 (~25% increase) was observed, likely due to COVID-19 pandemic policies.<br>
 
 2. Monthly Average Total Debts
 
