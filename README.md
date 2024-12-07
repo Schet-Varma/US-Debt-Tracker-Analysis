@@ -17,8 +17,8 @@ Transforming raw data into an analyzable format was the first step. Key preparat
 
 Several advanced Excel functions and tools were employed to process and analyze the data:<br>
 	•	Pivot Tables:<br>
-			>Used to summarize and analyze large datasets quickly.<br>
-			>Created yearly summaries for the percentage increase in public debt, intragovernmental holdings, and total debt.<br>
+			> Used to summarize and analyze large datasets quickly.<br>
+			> Created yearly summaries for the percentage increase in public debt, intragovernmental holdings, and total debt.<br>
 			>Grouped data by months to calculate average monthly debts.<br>
 	•	Advanced Filtering:<br>
 			>Applied custom filters to isolate key trends, such as year-end totals or specific monthly patterns.<br>
