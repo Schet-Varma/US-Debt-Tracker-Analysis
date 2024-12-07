@@ -7,11 +7,11 @@ The US Debt Tracker Project is a comprehensive analysis of US debt data, utilizi
 <h3>1️⃣ Initial Data Preparation</h3>
 
 Transforming raw data into an analyzable format was the first step. Key preparation processes included:<br>
-	•	Transpose Data: Converted columns into rows for better readability and manipulation.
-	•	Filter Blank Values: Removed rows with missing data to ensure consistency.
-	•	Replace Nulls: Used Find & Replace (Ctrl+H) to remove “null” entries.
-	•	Convert Scientific Notation: Formatted numbers from scientific notation to standard numeric format.
-	•	Extract Year-End Dates: Filtered the date column to keep only the last days of each year.
+	•	Transpose Data: Converted columns into rows for better readability and manipulation.<br>
+	•	Filter Blank Values: Removed rows with missing data to ensure consistency.<br>
+	•	Replace Nulls: Used Find & Replace (Ctrl+H) to remove “null” entries.<br>
+	•	Convert Scientific Notation: Formatted numbers from scientific notation to standard n<br>umeric format.<br>
+	•	Extract Year-End Dates: Filtered the date column to keep only the last days of each year.<br>
  
  <h3>2️⃣ Advanced Data Manipulation Techniques</h3>
 
