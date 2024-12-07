@@ -6,7 +6,7 @@ The US Debt Tracker Project is a comprehensive analysis of US debt data, utilizi
 
 <h3>1️⃣ Initial Data Preparation</h3>
 
-Transforming raw data into an analyzable format was the first step. Key preparation processes included:
+Transforming raw data into an analyzable format was the first step. Key preparation processes included:<br>
 	•	Transpose Data: Converted columns into rows for better readability and manipulation.
 	•	Filter Blank Values: Removed rows with missing data to ensure consistency.
 	•	Replace Nulls: Used Find & Replace (Ctrl+H) to remove “null” entries.
@@ -16,17 +16,18 @@ Transforming raw data into an analyzable format was the first step. Key preparat
  <h3>2️⃣ Advanced Data Manipulation Techniques</h3>
 
 Several advanced Excel functions and tools were employed to process and analyze the data:
-	•	Pivot Tables:
-	•	Used to summarize and analyze large datasets quickly.
-	•	Created yearly summaries for the percentage increase in public debt, intragovernmental holdings, and total debt.
-	•	Grouped data by months to calculate average monthly debts.
-	•	Advanced Filtering:
-	•	Applied custom filters to isolate key trends, such as year-end totals or specific monthly patterns.
-	•	Extracted records corresponding to significant spikes or anomalies for closer inspection.
-	•	Conditional Formatting:
-	•	Highlighted spikes in debt increase during specific months or years.
-	•	Color-coded year-over-year trends for easier visualization.
-	•	Dynamic Ranges: Leveraged named ranges to automate chart updates when data changes.
+	•	Pivot Tables:<br>
+			Used to summarize and analyze large datasets quickly.<br>
+			Created yearly summaries for the percentage increase in public debt, intragovernmental holdings, and total debt.<br>
+			Grouped data by months to calculate average monthly debts.
+	•	Advanced Filtering:<br>
+			Applied custom filters to isolate key trends, such as year-end totals or specific monthly patterns.<br>
+			Extracted records corresponding to significant spikes or anomalies for closer inspection.<br>
+	•	Conditional Formatting:<br>
+			Highlighted spikes in debt increase during specific months or years.<br>
+			Color-coded year-over-year trends for easier visualization.<br>
+	•	Dynamic Ranges: <br>
+ 			Leveraged named ranges to automate chart updates when data changes.<br>
 
 ## 📊 Key Analysis & Findings
 
