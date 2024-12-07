@@ -10,7 +10,7 @@ Transforming raw data into an analyzable format was the first step. Key preparat
 	•	Transpose Data: Converted columns into rows for better readability and manipulation.<br>
 	•	Filter Blank Values: Removed rows with missing data to ensure consistency.<br>
 	•	Replace Nulls: Used Find & Replace (Ctrl+H) to remove “null” entries.<br>
-	•	Convert Scientific Notation: Formatted numbers from scientific notation to standard n<br>umeric format.<br>
+	•	Convert Scientific Notation: Formatted numbers from scientific notation to standard numeric format.<br>
 	•	Extract Year-End Dates: Filtered the date column to keep only the last days of each year.<br><br>
  
  <h3>2️⃣ Advanced Data Manipulation Techniques</h3>
@@ -18,8 +18,8 @@ Transforming raw data into an analyzable format was the first step. Key preparat
 Several advanced Excel functions and tools were employed to process and analyze the data:<br><br>
 	•	Pivot Tables:<br>
 			&nbsp;&nbsp;&nbsp;&nbsp;Used to summarize and analyze large datasets quickly.<br>
-			&nbsp;&nbsp;&nbsp;&nbsp;Created yearly summaries for the percentage increase in public debt, intragovernmental holdings, and total debt.<br><br>
-			&nbsp;&nbsp;&nbsp;&nbsp;Grouped data by months to calculate average monthly debts.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;Created yearly summaries for the percentage increase in public debt, intragovernmental holdings, and total debt.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;Grouped data by months to calculate average monthly debts.<br><br>
 	•	Advanced Filtering:<br>
 			&nbsp;&nbsp;&nbsp;&nbsp;Applied custom filters to isolate key trends, such as year-end totals or specific monthly patterns.<br>
 			&nbsp;&nbsp;&nbsp;&nbsp;Extracted records corresponding to significant spikes or anomalies for closer inspection.<br><br>
@@ -45,13 +45,13 @@ Several advanced Excel functions and tools were employed to process and analyze 
 	•	Technique:
 	&nbsp;&nbsp;&nbsp;&nbsp;Used grouped Pivot Tables to calculate monthly averages across all years.<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;Represented findings in a bar chart.<br><br>
-	•	Insight:
+	•	Insight:<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;Highest increases: January, February, November, and December (holiday spending and tax-related activities).<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;Lowest increases: April, May, June, and July (typically less fiscal activity).<br><br>
 
 3. Projected Publicly Held Debt<br>
 
-	•	Technique:
+	•	Technique:<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;Calculated debt projections based on historical trends using Excel’s Forecast Sheet and linear regression models.<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;Visualized growth using a line chart for 2023–2027.<br><br>
 	•	Insight:<br>
